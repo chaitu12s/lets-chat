@@ -1,11 +1,12 @@
-# Let's Chat
+# <b>About Let's Chat</b>
 <br>
-RealTime chat application using express js,node js,socket.io
+RealTime chat application where users  can chat privately in rooms
 
 # Commands to Run
 ```
 npm install
-
+```
+```
 npm run dev
 ```
 <br>
